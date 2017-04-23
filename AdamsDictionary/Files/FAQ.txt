@@ -1,0 +1,32 @@
+In this dictionary you can:
+
+Load a premade dictionary by: 
+
+1st clicking File \n
+
+2nd clicking import file 
+
+3rd choose Files
+
+4th Terms.dat
+
+Add a word by:
+
+	Filling in the Spanish box with a Spanish word
+	
+	Filling in the English box with a English word
+	
+	Click the Add Translation button 
+	
+Bring up a reference list:
+
+	Click Help
+	
+	Click ReadMe
+	
+Bring up a FAQ section- but you already knew that!
+	
+	
+
+
+
